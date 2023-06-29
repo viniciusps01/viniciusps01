@@ -12,7 +12,7 @@
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://flutternatico.com/wp-content/uploads/2022/04/cbatman-1024x1024.png?width=1024&height=1024">
+ <!-- <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/GVpGd3g/homer-simpson-png-2022-by-wcwjunkbox-dfheouw-pre.png">-->
 </div>
   
   ##
